@@ -1,6 +1,6 @@
-## ola! Eu sou o Fernando Santos
+## Ola! Eu sou o Fernando Santos
 
-- 🔭 eu estou estudando e me aprofundando em ruby e ruby on rails
+- 🔭 Eu estou estudando e me aprofundando em ruby e ruby on rails
 - 📫 Contate_me no email: fernandosillvasantoss@gmail.com
 ##
 
