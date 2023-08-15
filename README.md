@@ -1,4 +1,6 @@
-## Hi there, I'm Fernando
+## 
+
+<h1 align="left"> Hi there, I'm Fernando  </h1>
 
 - 🔭 Eu estou estudando e me aprofundando em ruby e ruby on rails
 - 📫 Contate_me no email: fernandosillvasantoss@gmail.com
