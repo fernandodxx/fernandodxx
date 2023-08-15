@@ -1,6 +1,8 @@
 <h1 align="left"> Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandodxx&color=blue" alt="Profile views" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<br>
+
 - 🔥 junior Web Developer 
 - 🔭 I'm perfecting myself in ruby ​​and ruby ​​on rails
 - 📫 Contact me on email: fernandosillvasantoss@gmail.com
