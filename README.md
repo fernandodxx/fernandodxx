@@ -1,4 +1,4 @@
-## Ola! Eu sou o Fernando Santos
+## Hi There, I'm Fernando
 
 - 🔭 Eu estou estudando e me aprofundando em ruby e ruby on rails
 - 📫 Contate_me no email: fernandosillvasantoss@gmail.com
