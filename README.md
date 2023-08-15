@@ -1,10 +1,28 @@
-## 
+<h1 align="left"> Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandodxx&color=blue" alt="Profile views" /> </p>
 
-<h1 align="left"> Hi there, I'm Fernando  </h1>
-
-- 🔭 Eu estou estudando e me aprofundando em ruby e ruby on rails
-- 📫 Contate_me no email: fernandosillvasantoss@gmail.com
+- 🔥 junior Web Developer 
+- 🔭 I'm perfecting myself in ruby ​​and ruby ​​on rails
+- 📫 Contact me on email: fernandosillvasantoss@gmail.com
 ##
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
+![rubyonrails](https://img.shields.io/badge/-rubyonrails-05122A?style=flat&logo=rubyonrails)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/fernandodxx">
@@ -12,16 +30,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodxx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
-  <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
   
-  ##
+  ## Contact
   
   <div>
     <a href="mailto:fernandosillvasanntoss@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
