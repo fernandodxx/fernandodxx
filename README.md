@@ -8,7 +8,7 @@
 - 📫 Contact me on email: fernandosillvasantoss@gmail.com
 ##
 
-<br><br>
+
 
 ## 🛠 &nbsp;Tech Stack
 
