@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <br>
 
-- 🔥 junior Web Developer 
+- 🔥 Web Developer 
 - 🔭 I'm perfecting myself in ruby ​​and ruby ​​on rails
 - 📫 Contact me on email: fernandosillvasantoss@gmail.com
 ##
