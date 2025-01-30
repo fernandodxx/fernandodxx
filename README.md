@@ -9,7 +9,7 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="35" height="35" /> About Me</h2>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"/>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> **Full Stack** developer specializing in **Ruby on Rails**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Focus on developing scalable and performant applications
@@ -41,6 +41,7 @@
 <br>
 
 ## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> &nbsp;GitHub Analytics</p>
+<p align="center"><img  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/></p>
 
 <div align="center">
   <a href="https://github.com/fernandodxx">
@@ -49,7 +50,7 @@
 </div>
 
 
-## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" /> Contact</p>
+## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" /> Contact </p>
   
   <div align="center">
     <a href="https://www.linkedin.com/in/fernando-santoss"  target="_blank"><img width="100" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"></a>
